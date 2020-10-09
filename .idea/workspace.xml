@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce87e86b-e5d1-4b94-bb53-b4929fb361ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Lesson1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1ideBbO0m90aDEr5CTqb0sZOtYA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.tsk5">
+    <configuration name="tsk1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/tsk1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsk5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/tsk5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tsk5" />
+        <item itemvalue="Python.tsk1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce87e86b-e5d1-4b94-bb53-b4929fb361ac" name="Default Changelist" comment="" />
+      <created>1602241761124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602241761124</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Homework lesson1">
+      <created>1602242676889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242676889</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework lesson1">
+      <created>1602242945434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242945434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework lesson1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework lesson1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1602243731181">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.721@0.23.1280.721" timestamp="1602243731181" />
+    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.723@0.23.1280.723" timestamp="1602242945147" />
+    <state width="602" height="174" key="GridCell.Tab.0.bottom" timestamp="1602242569162">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1602242569162" />
+    <state width="602" height="174" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1602242389264" />
+    <state width="602" height="174" key="GridCell.Tab.0.center" timestamp="1602242569161">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1602242569161" />
+    <state width="602" height="174" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1602242389263" />
+    <state width="602" height="174" key="GridCell.Tab.0.left" timestamp="1602242569160">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1602242569160" />
+    <state width="602" height="174" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1602242389262" />
+    <state width="602" height="174" key="GridCell.Tab.0.right" timestamp="1602242569161">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1602242569161" />
+    <state width="602" height="174" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1602242389263" />
+    <state x="139" y="24" key="SettingsEditor" timestamp="1602241901412">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="139" y="24" key="SettingsEditor/0.23.1280.723@0.23.1280.723" timestamp="1602241901412" />
+    <state x="421" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602243688476">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="421" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.721@0.23.1280.721" timestamp="1602243688476" />
+    <state x="421" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.723@0.23.1280.723" timestamp="1602242919478" />
+  </component>
+</project>
